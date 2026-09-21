@@ -67,7 +67,7 @@ below(circle(30, "solid", "blue"),
 
 
 
-
+rectangle(40, 100, 'solid', 'black')
 
 
 
